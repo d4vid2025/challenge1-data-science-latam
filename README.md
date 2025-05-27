@@ -25,11 +25,9 @@ El análisis incluye gráficos que muestran:
 
 Basado en el análisis, la tienda más recomendable para que el Sr. Juan venda sus productos es:
 
-**📌 Tienda 3**
+**📌 Tienda 1**
 
-Esta tienda destacó por su alto ingreso total, buena distribución de ventas por categoría, y una excelente calificación promedio de los clientes.
-
-> Consulta el informe completo en `reporte.md`.
+Esta tienda tiene dos caracteristicas de las 4 las que la hacen candidato a ser vendida. Su menor calificación por parte de los clientes y el mayor costo de envío
 
 ## 👤 Sobre el autor
 
